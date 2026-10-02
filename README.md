@@ -1,4 +1,4 @@
-# Portfolio Generator
+# PortfolioBanao
 
 A full-stack web application that allows users to create, customize, preview, and share their own personal portfolios using ready-made templates.
 
@@ -16,7 +16,7 @@ A full-stack web application that allows users to create, customize, preview, an
 
 ## About the Project
 
-Portfolio Generator is a web-based portfolio creation platform designed to make building a personal portfolio simple and accessible.
+PortfolioBanao is a web-based portfolio creation platform designed to make building a personal portfolio simple and accessible.
 
 Users can create an account, enter their personal and professional information, choose a portfolio template, preview their portfolio, and share it through a public link.
 
