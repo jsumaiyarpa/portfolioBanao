@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <input
             type="text"
             name="projectName"
-            placeholder="e.g. Portfolio Generator"
+            placeholder="e.g. PortfolioBanao"
             value="${escapeHtml(name)}"
             maxlength="100"
         >
