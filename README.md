@@ -137,13 +137,13 @@ portfolio_lab02/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jsumaiyarpa/portfolio_lab02.git
+git clone https://github.com/jsumaiyarpa/portfolioBanao.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd portfolio_lab02
+cd portfolioBanao
 ```
 
 ### 3. Install backend dependencies
@@ -207,7 +207,7 @@ A shared portfolio uses a public portfolio ID, allowing visitors to view the por
 Example:
 
 ```text
-/templates/minimal.html?id=PUBLIC_ID
+/p/PORTFOLIO_ID
 ```
 
 ## Deployment
