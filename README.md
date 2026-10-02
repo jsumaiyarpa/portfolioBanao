@@ -2,13 +2,17 @@
 
 A full-stack web application that allows users to create, customize, preview, and share their own personal portfolios using ready-made templates.
 
-## Live Demo
+## Live App
 
-[Portfolio Generator](https://portfolio-maker-inky.vercel.app/)
+[PortfolioBanao](https://portfolio-banao.vercel.app/)
 
 ## GitHub Repository
 
-[View Source Code](https://github.com/jsumaiyarpa/portfolio_lab02)
+[View Source Code](https://github.com/jsumaiyarpa/portfolioBanao/)
+
+## Project Demo
+
+[View YouTube Demo](https://youtu.be/sV0fxP-eml8?si=qyEbfvsiSJMftO72)
 
 ## About the Project
 
